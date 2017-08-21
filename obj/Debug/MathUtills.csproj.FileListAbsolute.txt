@@ -1,0 +1,5 @@
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills\bin\Debug\MathUtills.dll
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills\bin\Debug\MathUtills.pdb
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills\obj\Debug\MathUtills.csprojResolveAssemblyReference.cache
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills\obj\Debug\MathUtills.dll
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills\obj\Debug\MathUtills.pdb

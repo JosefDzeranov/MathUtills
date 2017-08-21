@@ -1,0 +1,7 @@
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\obj\Debug\MathUtills.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\bin\Debug\MathUtills.UnitTests.dll
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\bin\Debug\MathUtills.UnitTests.pdb
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\obj\Debug\MathUtills.UnitTests.dll
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\obj\Debug\MathUtills.UnitTests.pdb
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\bin\Debug\MathUtills.dll
+C:\Users\Josef\Documents\Visual Studio 2013\Projects\MathUtills\MathUtills.UnitTests\bin\Debug\MathUtills.pdb
